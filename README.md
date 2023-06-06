@@ -14,8 +14,8 @@ The IPL is a professional Twenty20 cricket league in India. The 2022 season was 
 ## Data
 The data for the data analysis project is stored in the data folder. The data includes the following files:
 
-batting.csv: A CSV file that contains batting data for the 2022 IPL season.
-bowling.csv: A CSV file that contains bowling data for the 2022 IPL season.
+-batting.csv: A CSV file that contains batting data for the 2022 IPL season.
+-bowling.csv: A CSV file that contains bowling data for the 2022 IPL season.
 
 ## Conclusion
 The data analysis project on IPL 2022 provides insights into the performance of teams, players, and bowlers. The project also provides insights into the factors that contribute to winning matches.
