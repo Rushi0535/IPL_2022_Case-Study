@@ -6,7 +6,7 @@ The IPL is a professional Twenty20 cricket league in India. The 2022 season was 
 
 ## The data analysis project in this repository focuses on the following topics:
 
-  1.Batting performance
-  2.Bowling performance
-  3.Team performance
-  4.Match results
+  1. Batting performance
+  2. Bowling performance
+  3. Team performance
+  4. Match results
