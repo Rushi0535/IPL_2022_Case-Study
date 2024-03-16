@@ -19,5 +19,3 @@ The data for the data analysis project is stored in the data folder. The data in
 
 ## Conclusion
 The data analysis project on IPL 2022 provides insights into the performance of teams, players, and bowlers. The project also provides insights into the factors that contribute to winning matches.
-
-I hope you find this project useful.
