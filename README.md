@@ -18,4 +18,4 @@ The data for the data analysis project is stored in the data folder. The data in
 - bowling.csv: A CSV file that contains bowling data for the 2022 IPL season.
 
 ## Conclusion
-The data analysis project on IPL 2022 provides insights into the performance of teams, players, and bowlers. The project also provides insights into the factors that contribute to winning matches.
+The data analysis project on IPL 2022 provides insights into the performance of teams, players, and bowlers. The project also provides insights into  factors that contribute to winning matches.
